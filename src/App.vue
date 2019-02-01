@@ -52,12 +52,12 @@ export default {
       alwaysScrollToBottom: false,
       messageStyling: true,
       id: null,
-        message: '',
-        messages: [],
-        unread: false,
-        chatActive: false,
-        loggedIn: false,
-        details: { name: "" }
+      message: '',
+      messages: [],
+      unread: false,
+      chatActive: false,
+      loggedIn: false,
+      details: { name: "" }
     }
   },
   created() {
